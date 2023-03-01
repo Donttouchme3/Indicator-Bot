@@ -4,4 +4,5 @@
 
 Файл бота: IndicatoBot.py
 
+
 ⒸSHAVKATOV ASILBEK. 2023
